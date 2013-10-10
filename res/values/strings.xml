@@ -3,6 +3,9 @@
 
     <string name="app_name">ActivitySample</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world!MainActivity</string>
+    <string name="hello_world_sub">Hello world!SubActivity</string>
+    <string name="to_sub">to SUb!</string>
+    <string name="img_cng">Image Change</string>
 
 </resources>
